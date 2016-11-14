@@ -1,0 +1,6 @@
+framework module BWViewLibary {
+  umbrella header "BWViewLibary-umbrella.h"
+
+  export *
+  module * { export * }
+}

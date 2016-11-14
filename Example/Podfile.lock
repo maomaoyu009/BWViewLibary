@@ -1,0 +1,16 @@
+PODS:
+  - BWViewLibary (0.1.0)
+
+DEPENDENCIES:
+  - BWViewLibary (from `../`)
+
+EXTERNAL SOURCES:
+  BWViewLibary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BWViewLibary: 6ecf8eb5ab0c54e8023c1420b4060c139a6cc0e9
+
+PODFILE CHECKSUM: 3f6ea3b83eeef1ea91f9198e75b57d36d879288f
+
+COCOAPODS: 1.1.0.rc.2
