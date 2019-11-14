@@ -27,3 +27,7 @@ xuming90, xuming090204@126.com
 ## License
 
 BWViewLibary is available under the MIT license. See the LICENSE file for more info.
+
+test 1
+test 2
+test 3
